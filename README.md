@@ -1,6 +1,6 @@
 -----------------------------------------------------
 
-Merci a vous d'avoir installer mon Fangame One Piece
+Merci a vous d'avoir installer mon Fangame Tokyo Revengers
 
 Je ne possede pas les droits du jeu officiel ceci est juste un FanGame.
 
@@ -21,7 +21,7 @@ Pour l'installer vous devrez :
 
 -----------------------------------------------------
 
-Thank you for installing my Fangame One Piece
+Thank you for installing my Fangame Tokyo Revengers
 
 I don't own the rights to the official game this is just a FanGame.
 
