@@ -1,1 +1,1 @@
-# FanGame-Tokyo-Revengers-v0.1
+Tokyo-Revengers-v0.1
